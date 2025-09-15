@@ -32,6 +32,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
+![Kapture 2025-09-14 at 21 49 20](https://github.com/user-attachments/assets/c091865e-c598-47b4-86c8-ef93c042e461)
 
 
 GIF created with ...  
